@@ -37,7 +37,7 @@ export default function Home() {
   const pricingPlans = [
     {
       name: "Starter",
-      price: "₹3,399",
+      price: "₹999",
       highlight: false,
       description: "Perfect for beginners",
       features: [
